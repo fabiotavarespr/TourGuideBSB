@@ -34,10 +34,10 @@ public class PontoTuristicoAdapter extends ArrayAdapter<PontoTuristico> {
                     R.layout.list_item, parent, false);
         }
 
-        // Get the {@link Word} object located at this position in the list
+        // Get the {@link PontoTuristicoAdapter} object located at this position in the list
         PontoTuristico pontoTuristico = getItem(position);
 
-        // Find the TextView in the list_item.xml layout with the ID miwok_text_view.
+        // Find the TextView in the list_item.xml layout with the ID titulo.
         TextView tituloView = (TextView) listItemView.findViewById(R.id.titulo);
         tituloView.setText(pontoTuristico.getNomePontoTuristicoId());
 
@@ -46,7 +46,7 @@ public class PontoTuristicoAdapter extends ArrayAdapter<PontoTuristico> {
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
         imageView.setImageResource(pontoTuristico.getImagemPontoTuristicoId());
 
-        // Find the TextView in the list_item.xml layout with the ID miwok_text_view.
+        // Find the TextView in the list_item.xml layout with the ID descricao.
         TextView descricaoView = (TextView) listItemView.findViewById(R.id.descricao);
         descricaoView.setText(pontoTuristico.getDescricaoPontoTuristicoId());
 

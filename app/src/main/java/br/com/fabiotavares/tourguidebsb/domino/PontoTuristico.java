@@ -11,12 +11,12 @@ public class PontoTuristico {
     /** Imagem referente do ID do ponto turistico */
     private int mImagemPontoTuristicoId;
 
-    /** Construtor padrão */
+    /** Construtor padrão sem parametros */
     public PontoTuristico(){
     }
 
     /**
-     * Construtor com argumentos
+     * Construtor com parametros
      *
      * @param nomePontoTuristicoId Este  ID é referente a String com o nome do ponto turistico
      * @param descricaoPontoTuristicoId Este  ID é referente a String com a descricao do ponto turistico

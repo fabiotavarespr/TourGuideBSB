@@ -18,6 +18,9 @@ public class NaturezaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
 
+        /**
+         * Menu de Navegação
+         */
         ImageView principal = (ImageView) findViewById(R.id.menu_brasilia);
         principal.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -54,6 +57,9 @@ public class NaturezaActivity extends AppCompatActivity {
             }
         });
 
+        /**
+         * Preenchendo a lista com os pontos turisticos de Brasilia
+         */
         ArrayList<PontoTuristico> pontosTuristicos = new ArrayList<PontoTuristico>();
 
         pontosTuristicos.add(new PontoTuristico(R.string.titulo_natureza_lago_paranoa, R.string.descricao_natureza_lago_paranoa, R.drawable.lago_paranoa));
