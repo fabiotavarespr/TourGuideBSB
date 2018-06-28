@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".PrincipalActivity">
+
+    <TextView
+        style="@style/titulo"
+        android:text="@string/titulo" />
+
+    <LinearLayout style="@style/menu">
+
+        <ImageView
+            android:id="@+id/menu_brasilia"
+            style="@style/image_menu"
+            android:src="@drawable/baseline_home_white_24" />
+
+        <ImageView
+
+            android:id="@+id/menu_monumentos"
+            style="@style/image_menu"
+            android:src="@drawable/baseline_location_city_white_24" />
+
+        <ImageView
+            android:id="@+id/menu_natureza"
+            style="@style/image_menu"
+            android:src="@drawable/baseline_nature_white_24" />
+
+        <ImageView
+            android:id="@+id/menu_restaurantes"
+            style="@style/image_menu"
+            android:src="@drawable/baseline_local_dining_white_24" />
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" />
+
+
+</LinearLayout>

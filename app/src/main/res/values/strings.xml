@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">TourGuideBSB</string>
+    <string name="titulo">Bem-vindo ao Guia de Turismo de Brasília</string>
+
+    <string name="titulo_principal_brasilia">Brasília</string>
+    <string name="descricao_principal_brasilia">Brasília é surpreendente. E já nasceu assim. Desde que foi inaugurada, em 21 de abril de 1960, a cidade vem encantando o mundo com sua beleza única.\n\n
+        Idealizada por Juscelino Kubitschek, Brasília é uma obra-prima da arquitetura moderna. A sua concepção é fruto do trabalho e da genialidade do urbanista Lucio Costa e do arquiteto Oscar Niemeyer. Além disso, a cidade é repleta de obras de artistas, tais como Athos Bulcão, Burle Marx, Alfredo Ceschiatti, Marianne Peretti e Bruno Giorgi, que fazem dela um lugar sem igual.\n\n
+        Brasília surpreende tanto, que foi a primeira cidade moderna e a mais nova a ser declarada Patrimônio Cultural da Humanidade pela UNESCO, em 1987, com apenas 27 anos de vida.\n\n
+        A cidade também é farta em riquezas naturais, com muitas quedas-d’água, cachoeiras, grutas e lagoas, ambientes perfeitos para passeios ecológicos e práticas esportivas ao ar livre.\n\n
+        Aproveite a sua visita para conhecer, descobrir e se encantar com Brasília. Você vai ver que a Capital do Brasil vai surpreender você também.</string>
+
+    <string name="titulo_monumento_cadetral">Catedral</string>
+    <string name="descricao_monumento_cadetral">Projetada por Oscar Niemayer, foi inaugurada em 31/5/1970. Possui 40 metros de altura com 16 arcos de concreto armado circundados por um espelho d’água. A cruz metálica de 12 m de altura no topo foi benzida pelo Papa Paulo VI. Na entrada, os quatro evangelistas em bronze, medindo 3 metros de altura. O interior é banhado por luz natural filtado pelos vitrais coloridos de Marianne Peretti.\n\n
+        Desenha-se em linhas arquitetônicas singulares e originais, e guarda as marcas características do seu arquiteto: concreto armado, vidro e espelhos d’água. Ocupa uma área circular de 70 metros de diâmetro. Sua cobertura é sustentada por 16 colunas de concreto, num formato hiperbólico, medindo, cada uma, 42 metros de altura e pesando 90 toneladas.</string>
+
+    <string name="titulo_monumento_congresso">Congresso Nacional</string>
+    <string name="descricao_monumento_congresso">Projetado por Oscar Niemayer é sede do Poder Legislativo. Os blocos em forma de H têm 28 andares e abrigam atividades administrativas. No seu interior, encontra-se vasto acervo cultural e paisagístico. Nas cúpulas se localizam os plenários, a convexa da Câmara dos Deputados e a côncava do Senado Federal.\n\n
+        É considerado como o maior símbolo da capital do Brasil, além de referido frequentemente como o ícone do próprio país, no exterior. Sobre um bloco-plataforma horizontal encontram-se dispostos uma semiesfera à esquerda (assento do Senado), um hemisfério à direita (assento da Câmara dos Deputados) e, entre ambas, duas torres gêmeas de escritórios (o chamado Anexo 1), que se elevam a cem metros de altura. O congresso ocupa também outros edifícios vizinhos, alguns deles interconectados por um túnel. O edifício é implantado em continuidade ao eixo monumental, a principal avenida da capital brasileira, conforme concebido por Lúcio Costa. À sua frente encontra-se um grande gramado, usado pela população como palco de passeatas, protestos e outras manifestações públicas. Na parte posterior do edifício encontra-se a Praça dos Três Poderes.</string>
+
+    <string name="titulo_monumento_memorialJK">Memorial JK</string>
+    <string name="descricao_monumento_memorialJK">Pojetada por Oscar Niemayer, foi inaugurada em 31/5/1970. Possui 40 metros de altura com 16 arcos de concreto armado circundados por um espelho d’água. A cruz metálica de 12 m de altura no topo foi benzida pelo Papa Paulo VI. Na entrada, os quatro evangelistas em bronze, medindo 3 metros de altura. O interior é banhado por luz natural filtado pelos vitrais coloridos de Marianne Peretti.\n\n
+    No local, encontram-se o corpo de JK, diversos pertences, como sua biblioteca pessoal, e fotos tanto dele como de sua esposa Sarah. Apresenta obras projetadas por Athos Bulcão em sua área externa, um vitral desenhado pela artistaMarianne Peretti sobre a câmara mortuária e uma escultura de 4,5 metros de autoria de Honório Peçanha.</string>
+
+    <string name="titulo_monumento_museu_nacional">Museu Nacional</string>
+    <string name="descricao_monumento_museu_nacional">O espaço é utilizado para exposições itinerantes de artistas renomados e temas importantes para a sociedade, palestras, mostra de filmes, seminários e eventos importantes. Dessa forma, contribui para a educação democrática por meio da cultura e ativa o turismo.\n\n
+        O Museu Nacional Honestino Guimarães é um museu brasileiro criado e administrado pelo governo do Distrito Federal, Brasil. A instituição foi inaugurada com uma exposição sobre a obra de Niemeyer: Niemeyer e Niemeyer e Brasília – Patrimônio da Humanidade. O museu e a biblioteca formam o Complexo Cultural da República João Herculino.\n\n
+        Seu nome foi dado em memória de Honestino Guimarães. O museu, que tem a forma de cúpula, e a Biblioteca Nacional Leonel de Moura Brizola foram concebidos pelo arquiteto brasileiro Oscar Niemeyer e foram inaugurados no dia 15 de dezembro de 2006, no dia em que o arquitecto celebrou os seus 99 anos de idade.</string>
+
+    <string name="titulo_monumento_palacio_alvorada">Palácio da Alvorada</string>
+    <string name="descricao_monumento_palacio_alvorada">O palácio é designado como a residência oficial do Presidente do Brasil. Situa-se às margens do lago Paranoá, tendo sido o primeiro edifício inaugurado na Capital Federal.\n\n
+        O Palácio tem configuração horizontal arrematada por uma capela que remete às antigas casas de fazenda do Brasil colonial. O formato diferenciado das colunas externas lembram as redes estendidas em varandas, como as que contornavam os casarões coloniais. O desenho das colunas deu origem ao símbolo e emblema presente no brasão do Distrito Federal. O Palácio tem um espelho dágua, que reflete a imagem da edificação, criando um espaço virtual infinito, complementado com uma escultura em bronze, denominada As Iaras, obra do artista plástico e escultor brasileiro Alfredo Ceschiatti. </string>
+
+    <string name="titulo_monumento_palacio_planalto">Palácio do Planalto</string>
+    <string name="descricao_monumento_palacio_planalto">Lugar de trabalho do Presidente da República\n\n
+        Inaugurado em 21/4/1960, abriga a sede do Poder Executivo. No primeiro andar estão as salas nobres de audiências e salões de banquetes; no segundo fica o gabinete do Presidente da República; e no terceiro, os gabinetes Civil e Militar. Seu acesso é feito pela famosa rampa. Apresenta troca de guarda a cada 2 horas e todas as sextas-feiras às 17h30, realiza-se a cerimônia de arriamento da bandeira com a presença de bandas e Dragões da Independência.\n\n
+        Palácio do Planalto é o nome oficial do local de trabalho da Presidência do Brasil. É o local onde está localizado o Gabinete Presidencial do presidente da República. O prédio também abriga a Casa Civil, a Secretaria-Geral e o Gabinete de Segurança Institucional da Presidência da República. É a sede do poder executivo do Governo Federal brasileiro. O edifício está localizado na Praça dos Três Poderes em Brasília, tendo sido projetado por Oscar Niemeyer. O Palácio do Planalto faz parte do projeto do Plano Piloto e foi um dos primeiros edifícios construídos na capital.\n\n
+        A construção do Palácio do Planalto começou em 10 de julho de 1958, obedecendo ao projeto arquitetônico de Oscar Niemeyer e ao cálculo estrutural de Joaquim Cardozo. O engenheiro-chefe da obra foi Fausto Amadeu Francisco Favale (1929-2014), pessoalmente designado para o desafio por Juscelino Kubitschek. Favale enfrentou o desafio de concretizar as ideias de Niemeyer a respeito das colunas curvas da fachada (conhecidas como velas), numa intermediação entre o projeto arquitetônico e o cálculo estrutural.\n\n
+        A obra foi concluída a tempo de tornar o Palácio o centro das festividades da inauguração de Brasília, em 21 de abril de 1960. Até então a residência de vistoria do presidente funcionava em uma construção provisória de madeira conhecida popularmente como Palácio do Catetinho, inaugurada em 31 de outubro de 1956, nos arredores de Brasília.\n\n
+        Antes da construção do Palácio do Planalto e do Palácio da Alvorada, o Palácio do Catete, localizado na cidade do Rio de Janeiro, foi a sede do poder executivo brasileiro de 1897 a 1960. A partir desse ano, a sede do poder executivo foi transferida para a recém-inaugurada cidade de Brasília.</string>
+
+    <string name="titulo_monumento_palacio_itamaraty">Palácio Itamaraty</string>
+    <string name="descricao_monumento_palacio_itamaraty">É a sede do Ministério das Relações Exteriores. Foi concebido como edifício que serviria ao propósito de apresentar o Brasil aos visitantes estrangeiros e, portanto, foi construído apenas com materiais nacionais e seus salões abrigam obras apenas de artistas nascidos ou naturalizados brasileiros.\n\n
+        Palácio dos Arcos foi o primeiro nome dado ao edifício, devido aos arcos da fachada. No entanto, a tradição do nome Itamaraty, oriunda do nome da antiga sede do ministério no Rio de Janeiro, foi mais forte e o palácio seguiu chamando-se Palácio Itamaraty. Em seu interior, há painéis de artistas como Athos Bulcão, Rubem Valentim, Sérgio Camargo, Maria Martins e afresco de Alfredo Volpi. O paisagismo interno e externo é deRoberto Burle Marx. Em frente ao Palácio do Itamaraty, sobre o espelho dágua, encontra-se a escultura Meteoro, desenhada por Bruno Giorgi.\n\n
+        A pedra fundamental do palácio foi lançada em 12 de setembro de 1960, no entanto, devido às dificuldades técnicas para atender às inovações do projeto, este só foi efetivamente concluído e inaugurado, pelo presidente Emílio Garrastazu Médici e pelo Ministro das Relações Exteriores, embaixador Mário Gibson Barbosa.\n\n
+        O palácio já recebeu visitas ilustres de personalidades como Pelé, na sua inauguração, em 1970 e de chefes de estado como a Rainha Elizabeth do Reino Unido, quando o edifício ainda estava em obras, em 1968, dos presidentes americanos Ronald Reagan, em 1982 e de Barack Obama, em 2011.\n\n
+        No protesto de 20 de junho de 2013, ocorrido em Brasília, em que se reivindicavam diversas mudanças ao Governo Federal, vidraças do prédio foram apedrejadas, algumas paredes pichadas e parte da fachada incendiada por um coquetel molotov jogado por manifestantes.</string>
+
+    <string name="titulo_monumento_stf">Supremo Tribunal Federal</string>
+    <string name="descricao_monumento_stf">O projeto é de Oscar Niemeyer. Suas colunas externas seguem o mesmo modelo criado para os palácios do Planalto e do Alvorada. Prédio moderno, o Supremo possui obras de arte distribuídas por seus espaços e um museu com um plenário da antiga sede do Rio de Janeiro, além de moveis, togas e objetos pessoais de ex-ministros. Em exposição permanente, há a historia das leis e de todas as Constituições do país.\n\n
+        O Supremo Tribunal Federal (STF) é a mais alta instância do poder judiciário brasileiro, e acumula tanto competências típicas de uma suprema corte, ou seja, um tribunal de última instância, como de um tribunal constitucional, que seria aquele que julga questões de constitucionalidade independentemente de litígios concretos. Sua função institucional fundamental é de servir como guardião da Constituição Federal de 1988, apreciando casos que envolvam lesão ou ameaça a esta última. De suas decisões não cabe recurso a nenhum outro tribunal.</string>
+
+    <string name="titulo_natureza_lago_paranoa">Lago Paranoá</string>
+    <string name="descricao_natureza_lago_paranoa">Dentre tantos atrativos que Brasília possui o Lago Paranoá é um dos mais importantes para seus habitantes e também turistas que visitam a cidade, o lago é que ajuda a refrescar os dias quentes do ano e também oferece diversas opções de lazer. Frequentado por diversas pessoas de todo o país o lago já possui a 3ª maior frota de embarcações do país e cresce cada dia mais.\n\n
+        É artificial, foi concebido em 1894 pela Missão Cruls e concretizado com a construção da cidade, durante o governo do presidente Juscelino Kubitschek, 1959.\n\n
+        O lago é formado pelas águas represadas do Rio Paranoá. Tem 48 quilômetros quadrados de área, profundidade máxima de 38 metros e cerca de oitenta quilômetros de perímetro, com algumas praias artificiais, como a Prainha e o Piscinão do Lago Norte. Localizado em Brasília, foi criado com o objetivo de aumentar a umidade em suas proximidades. Ao redor do lago, há vários bares e restaurantes. Os bairros Lago Sul e Lago Norte derivam seus nomes do lago. Cada uma ocupa uma das duas penínsulas.\n\n
+        Paranoá é um vocábulo de origem tupi. Significa enseada de mar, através da junção dos termos paranã (mar) e kûá (enseada).\n\n
+        Com o represamento do Rio Paranoá em 12 de setembro de 1959, originou-se a usina que supria o Distrito Federal, mas que, atualmente, representa apenas 2,5 por cento de seu consumo energético.</string>
+
+    <string name="titulo_natureza_parque_cidade">Parque da cidade</string>
+    <string name="descricao_natureza_parque_cidade">Maior até que o Central Park em Nova Iorque.\n\n
+        Em seus 420 hectares, abriga diversos tipos de entretenimento para o seu público, como quadras de Vôlei, Futebol, Basquete, pista de cooper para corrida e caminhadas, parque de diversões, quiosques, grandes estacionamentos, lago além de um pavilhão coberto para feiras e exposições, considerado o 3° maior do Brasil. O local é bastante amplo e arejado devido a grande diversidade de árvores e ao lago que está presente com diversas espécies de animais.\n\n
+        O Parque da Cidade é um parque multiuso localizado na Asa Sul em Brasília, no Distrito Federal. Foi fundado em 11 de outubro 1978 e possui 4,2 km².\n\n
+        Trata-se de um dos principais e mais extensos centros de lazer ao ar livre da cidade, concentrando quadras de esportes, lagos artificiais, parque de diversões, centro hípico e pistas de caminhada, patinação e ciclismo. O parque é considerado patrimônio de Brasília.\n\n
+        Originalmente recebeu o nome de Rogério Pithon Farias, um jovem - filho do então governador - que morreu em um acidente de carro. Foi renomeado para Parque Dona Sarah Kubitschek em 1997. O parque ganhou fama nacional por meio da música Eduardo e Mônica do grupo brasiliense Legião Urbana</string>
+
+    <string name="titulo_natureza_estadio_nacional">Estádio Nacional</string>
+    <string name="descricao_natureza_estadio_nacional">Estádio Nacional de Brasília Mané Garrincha, também conhecido como simplesmente Mané Garrincha, é um estádio de futebol e arena multiúso brasileiro, situado em Brasília, no Distrito Federal.\n\n
+        O estádio faz parte do Complexo Poliesportivo Ayrton Senna, que engloba também o Ginásio de Esportes Nilson Nelson e o Autódromo Internacional de Brasília Nelson Piquet, dentre outros. Inaugurado em 1974, o estádio tinha a capacidade de acomodar 45.200 pessoas.\n\n
+        Após a reforma de 2010-2013, iniciada para receber a Copa do Mundo FIFA de 2014, sua capacidade foi aumentada para 72.788 pessoas, tornando-se o segundo maior estádio do Brasil e um dos maiores das Américas, atrás do Maracanã (RJ). O estádio atualmente pertence à Agência de Desenvolvimento do Distrito Federal (Terracap). Inicialmente prevista para 31 de dezembro de 2012 e posteriormente para 21 de abril de 2013, a inauguração do novo estádio foi em 18 de maio de 2013.\n\n
+        Entre os eventos-teste após sua inauguração, o estádio foi palco da final do Campeonato Brasiliense de 2013, no dia 18 de maio (Brasiliense x Brasília) e em 26 de maio de 2013 Santos x Flamengo, válida pelo 1º Rodada do Campeonato Brasileiro (Brasileirão). Um dos argumentos usados para a reconstrução do estádio era que Brasília não contava com nenhum local apto a receber grandes eventos, que eram então realizados no canteiro central da Esplanada dos Ministérios ou no estacionamento do antigo estádio. No entanto, hoje em dia, não é permitido realizar eventos culturais no estádio, exceto quando houver interesse da administração.</string>
+
+    <string name="titulo_natureza_ermida_dom_bosco">Ermida Dom Bosco</string>
+    <string name="descricao_natureza_ermida_dom_bosco">O 1º templo erguido em Brasília.\n\n
+        Construída no ponto exato da passagem do paralelo 15, um dos marcos da localização sonhada por Dom Bosco. Tombado pelo patrimônio histórico do DF, o monumento triangular fica as márgens do Lago Paranoá e permite uma bela visão da cidade, inclusive do pôr do sol.</string>
+
+    <string name="titulo_natureza_jardim_botanico">Jardim Botânico</string>
+    <string name="descricao_natureza_jardim_botanico">1º Jardim Botânico do Brasil de ecossistema predominante de cerrado.\n\n
+        Oferece mais de 5 mil hectares com diversas plantas nativas e exóticas devidamente identificadas para os visitantes. Foi fundado em 1985. Conta com diversas espécies de animais e trilhas ecológicas que podem ser feitas pelos visitantes, que tem a opção de ir de carro ou a pé. Um local para os amantes da natureza e que procuram momentos de reflexão e para relaxar.\n\n
+        O Jardim Botânico de Brasília – JBB, é uma área protegida, vinculada à Secretaria de Meio Ambiente do Distrito Federal – SEMA/DF, cujas atividades são: a constituição e manutenção de Coleções de Plantas, Desenvolvimento de Pesquisa, Educação Ambiental e Lazer orientados para a conservação da Biodiversidade.</string>
+
+    <string name="titulo_natureza_agua_mineral">Parque Água Mineral</string>
+    <string name="descricao_natureza_agua_mineral">É um dos mais famosos e conhecidos parques ecológicos de Brasília.\n\n
+        O Parque Ecológico Água Mineral é uma das ótimas opções de lazer e turismo no distrito Federal, o local conta com piscinas para refrescar as pessoas e que são abastecidas com águas das várias nascentes do local, áreas para pick-nick, trilhas ecológicas onde é possível conhecer mais a fauna e a flora do local. Ao todo, o parque possui 30 mil hectares de extensão.\n\n
+        O Parque Nacional de Brasília, mais conhecido pelo apelido de Água Mineral, é uma unidade de conservação brasileira de proteção integral à natureza localizada no noroeste do Distrito Federal e no centro do estado de Goiás.</string>
+
+    <string name="titulo_natureza_ponte_jk">Ponte JK</string>
+    <string name="descricao_natureza_ponte_jk">Fantástica, A maior obra da cidade, não deixe de conhecê-la.\n\n
+        Eleita em 2003 como a ponte mais bonita do mundo pela Sociedade de Engenharia do Estado da Pennsylvania, nos Estados Unidos, a Ponte Juscelino Kubitschek é um exemplo de arrojo arquitetônico que faz jus ao espírito de mudança que foi o marco da construção de Brasília (obra do arquiteto Alexandre Chan).</string>
+
+    <string name="titulo_natureza_torre_televisao">Torre de Televisão</string>
+    <string name="descricao_natureza_torre_televisao">A terceira estrutura mais alta do Brasil.\n\n
+        Pojetada por Oscar Niemayer, foi inaugurada em 31/5/1970. Possui 40 metros de altura com 16 arcos de concreto armado circundados por um espelho d’água. A cruz metálica de 12 m de altura no topo foi benzida pelo Papa Paulo VI. Na entrada, os quatro evangelistas em bronze, medindo 3 metros de altura. O interior é banhado por luz natural filtado pelos vitrais coloridos de Marianne Peretti.</string>
+
+    <string name="titulo_natureza_torre_tv_digital">Torre de TV digital</string>
+    <string name="descricao_natureza_torre_tv_digital">O mais novo monumento da capital.\n\n
+        Batizada de “Flor do Cerrado”, permite que seja vista de vários pontos do DF. Para apreciar a vista que se tem do alto da torre foi construído um mirante situado a 120 metros de altura, de onde poderão contemplar uma vista de 360º de Brasília. Duas pétalas completam a torre. A primeira cúpula, a 60 metros, está reservada para instalação de uma sala de exposições e um café. Já a segunda cúpula, a 80 metros de altura, abrigará um restaurante.\n\n
+        A Torre de TV Digital de Brasília, conhecida como Flor do Cerrado, foi projetada para ser uma torre de transmissão televisiva do sistema de TV Digital para todo Distrito Federal e algumas cidades do Entorno.</string>
+
+
+    <string name="titulo_restaurante_beirute">Beirute</string>
+    <string name="descricao_restaurante_beirute">Um dos grandes pontos de encontro da cidade, o Beirute é uma das casas que marcam os brasilienses. Poucas coisas são tão agradáveis quanto se recostar nos banquinhos de madeira, assistir às crianças brincando no parquinho e tomar uma cerveja gelada.</string>
+
+    <string name="titulo_restaurante_dom_bosco">Pizzaria Dom Bosco</string>
+    <string name="descricao_restaurante_dom_bosco">A pizza da Dom Bosco é praticamente um patrimônio da cidade. A casa trabalha apenas com um sabor, vendido em três formatos: fatia simples, fatia dupla ou a pizza inteira.</string>
+
+</resources>
